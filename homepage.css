@@ -135,7 +135,7 @@ body{
 .play-section{
   min-height: 7vh;
   max-height: 7vh;
-  background-color: rgba(70, 63, 63, 0.836);
+  background-color: rgba(46, 41, 41, 0.836);
   position: relative;
 }
 .musicIcons{
