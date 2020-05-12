@@ -207,7 +207,7 @@ body{
   transition: all .2s ease-in-out;
 }
 #sidebar-content a:hover{
-  transform: scale(1.3);
+  transform: scale(1.1);
   color: rgb(26, 207, 90) ;
   transition: all .2s ease-in-out;
 }
